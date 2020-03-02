@@ -49,3 +49,17 @@ p{
     /* text-align: center; */
     padding-top: 100px;
 }
+.contacts {
+    text-align: center;  
+    font-size: 25px;
+    /* font-family: 'Berkshire Swash'; */
+    /* text-align: center; */
+    padding-top: 100px; 
+
+}
+.contacts h1{
+   font-family: 'Berkshire Swash';
+}
+.contacts p{
+  text-align: center;
+}
