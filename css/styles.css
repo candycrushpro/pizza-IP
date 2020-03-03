@@ -36,8 +36,13 @@ height:70vh ;
 .order{
     padding-top: 40px;
     text-align: center;
-    height: 800px;
+    height: 900px;
     background-color: rosybrown;
+}
+.order h3{
+    font-family: 'Berkshire Swash';
+    color: rgb(78, 99, 48);
+    padding: 20px;
 }
  img{
     border-radius: 30%;
@@ -65,8 +70,7 @@ p{
     background-color: powderblue; 
      background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ae/Kartoffel_pizza_%28with_border%29.jpg'); */
     background-size: 100% 100px;
-    background-repeat: no-repeat;
-
+    background-repeat:no-repeat;
 }
 .contacts h1{
    font-family: 'Berkshire Swash';
