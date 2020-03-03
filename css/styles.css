@@ -39,8 +39,9 @@ height:70vh ;
     height: 800px;
     background-color: rosybrown;
 }
-.order img{
-    
+ img{
+    border-radius: 30%;
+    padding: 10px;
 }
 p{
     font-size: 20px;
