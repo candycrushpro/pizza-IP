@@ -37,9 +37,7 @@ img{
     padding-top: 40px;
     text-align: center;
     height: 400px;
-    /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ae/Kartoffel_pizza_%28with_border%29.jpg'); */
-    /* background-size: 100% 400px; */
-    /* background-repeat: no-repeat; */
+   
     background-color: rosybrown;
 }
 p{
@@ -62,6 +60,9 @@ p{
     /* text-align: center; */
     padding-top: 100px;
     background-color: powderblue; 
+     background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ae/Kartoffel_pizza_%28with_border%29.jpg'); */
+    background-size: 100% 100px;
+    background-repeat: no-repeat;
 
 }
 .contacts h1{
@@ -70,4 +71,9 @@ p{
 }
 .contacts p{
   text-align: center;
+}
+.footer{
+    text-align: center;
+    padding-top: 35px;
+    background-color: ;
 }
