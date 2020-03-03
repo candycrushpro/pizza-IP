@@ -33,8 +33,14 @@ img{
     text-align: center;
     background-color: pink;
 }
-.row{
+.order{
+    padding-top: 40px;
     text-align: center;
+    height: 400px;
+    /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ae/Kartoffel_pizza_%28with_border%29.jpg'); */
+    /* background-size: 100% 400px; */
+    /* background-repeat: no-repeat; */
+    background-color: rosybrown;
 }
 p{
     font-size: 20px;
@@ -54,11 +60,13 @@ p{
     font-size: 25px;
     /* font-family: 'Berkshire Swash'; */
     /* text-align: center; */
-    padding-top: 100px; 
+    padding-top: 100px;
+    background-color: powderblue; 
 
 }
 .contacts h1{
    font-family: 'Berkshire Swash';
+   
 }
 .contacts p{
   text-align: center;

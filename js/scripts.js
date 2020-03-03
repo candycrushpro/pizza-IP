@@ -14,7 +14,7 @@
   }
   function mushrooms() {
     var mushroom = 0;
-    var addMushroom = document.getElementById("toppingone");
+    var addMushroom = document.getElementById("topping1");
     if (addMushroom.checked === true) {
         mushroom = 150;
     }
@@ -23,7 +23,7 @@
   
   function sausages() {
     var sausage = 0;
-    var addsausage = document.getElementById("toppingone");
+    var addsausage = document.getElementById("topping2");
     if (addsausage.checked === true) {
         sausage = 140;
     }
@@ -31,15 +31,15 @@
   }
   function onions() {
     var onion = 0;
-    var addonions = document.getElementById("toppingone");
+    var addonions = document.getElementById("topping3");
     if (addMushroom.checked === true) {
-        onion = 130;
+        onion = 100;
     }
     return parseInt(onion);
   }
   function tikkaSaucee() {
     var tikkaSauce = 0;
-    var addtikkaSauce = document.getElementById("toppingone");
+    var addtikkaSauce = document.getElementById("topping4");
     if (addtikkaSauce.checked === true) {
         tikkaSauce = 120;
     }
@@ -47,7 +47,7 @@
   }
   function mozarellaCheese() {
     var cheese = 0;
-    var addmozarellaCheese = document.getElementById("toppingone");
+    var addmozarellaCheese = document.getElementById("topping5");
     if (addmozarellaCheese.checked === true) {
         cheese = 110;
     }
